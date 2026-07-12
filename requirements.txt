@@ -1,0 +1,76 @@
+# ==========================
+# Core LangChain Ecosystem
+# ==========================
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+langsmith
+
+# ==========================
+# OpenAI
+# ==========================
+openai
+tiktoken
+
+# ==========================
+# Search Tool (Tavily)
+# ==========================
+tavily-python
+
+# ==========================
+# Web Scraping
+# ==========================
+beautifulsoup4
+lxml
+requests
+httpx
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv
+
+# ==========================
+# Data Validation
+# ==========================
+pydantic
+
+# ==========================
+# Utilities
+# ==========================
+typing-extensions
+tenacity
+
+# ==========================
+# Async Support
+# ==========================
+aiohttp
+
+# ==========================
+# Optional Data Handling
+# ==========================
+pandas
+numpy
+
+# ==========================
+# Logging & Debugging
+# ==========================
+rich
+
+# ==========================
+# JSON Utilities
+# ==========================
+orjson
+
+# ==========================
+# FastAPI (Optional API)
+# ==========================
+fastapi
+uvicorn
+
+# ==========================
+# Testing
+# ==========================
+pytest
