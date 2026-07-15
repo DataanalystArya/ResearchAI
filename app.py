@@ -27,13 +27,14 @@ st.set_page_config(
 # ----------------------------------------------------------------------------
 # Design tokens
 # ----------------------------------------------------------------------------
-BG = "#0B1220"
-SURFACE = "#111A2E"
-SURFACE_RAISED = "#182541"
-BORDER = "#26365A"
-TEXT_PRIMARY = "#EAE7E1"
-TEXT_SECONDARY = "#8D9198"
-TEXT_MUTED = "#5B5F66"
+BG = "#082567"               # Dark Sapphire
+SURFACE = "#12357F"
+SURFACE_RAISED = "#284E9A"
+BORDER = "#5F84C7"
+
+TEXT_PRIMARY = "#FFFFFF"
+TEXT_SECONDARY = "#E5EEFF"
+TEXT_MUTED = "#B6C8F0"
 
 STAGES = [
     {
