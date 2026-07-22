@@ -4,15 +4,12 @@
 langchain
 langchain-core
 langchain-community
-langchain-openai
 langgraph
 langsmith
+langchain-groq
 
 # ==========================
-# OpenAI
-# ==========================
-openai
-tiktoken
+
 
 # ==========================
 # Search Tool (Tavily)
